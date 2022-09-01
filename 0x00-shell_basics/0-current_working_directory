@@ -1,2 +1,2 @@
-#1/bin/bash/0x00-shell_basics
-
+#!/bin/bash
+realpath “${BASH_SOURCE:-$0}”
