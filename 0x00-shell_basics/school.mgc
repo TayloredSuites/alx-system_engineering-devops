@@ -1,1 +1,1 @@
-file . -m -f School
+file -C [-m School]
