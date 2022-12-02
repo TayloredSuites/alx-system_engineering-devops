@@ -1,1 +1,1 @@
-file . -m 0 s executable
+file . -m -f School
